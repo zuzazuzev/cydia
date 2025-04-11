@@ -1,4 +1,7 @@
 #!/bin/bash
+echo """ZuzaZuzev's Repo
+==================
+"""
 script_full_path=$(dirname "$0")
 cd $script_full_path || exit 1
 
